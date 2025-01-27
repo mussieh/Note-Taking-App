@@ -9,11 +9,13 @@ export default {
 
     theme: {
         screens: {
+            xxl: { max: "2560px" },
             xl: { max: "1440px" },
             lg: { max: "1024px" },
             md: { max: "768px" },
             sm: { max: "425px" },
             xs: { max: "375px" },
+            xxs: { max: "320px" },
         },
         extend: {
             fontFamily: {
