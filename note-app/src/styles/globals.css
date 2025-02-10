@@ -37,6 +37,11 @@
         hue-rotate(184deg) brightness(97%) contrast(92%);
 }
 
+.info-icon-error {
+    filter: brightness(0) saturate(100%) invert(36%) sepia(37%) saturate(7439%)
+        hue-rotate(336deg) brightness(100%) contrast(97%);
+}
+
 .eye-icon {
     filter: brightness(0) saturate(100%) invert(48%) sepia(9%) saturate(511%)
         hue-rotate(183deg) brightness(95%) contrast(88%);
